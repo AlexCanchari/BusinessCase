@@ -1,2 +1,6 @@
 pandas
 pandasql
+matplotlib
+seaborn
+numpy
+scipy.stats
